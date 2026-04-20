@@ -1,4 +1,4 @@
-#🚀 CodeAlpha Backend Development Internship — Module 1
+🚀 CodeAlpha Backend Development Internship — Module 1
  
 > Three backend projects built with **Node.js**, **Express.js**, and **SQLite** as part of the CodeAlpha Backend Development Internship.
  
